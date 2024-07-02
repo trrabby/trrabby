@@ -33,8 +33,6 @@ Skills: HTML5 | CSS3 | TAILWIND CSS | DAISYUI | MAMBAUI | JAVASCRIPT | REACT JS 
 
 ## 🚀 Some Tools I Use
 
-<## :computer: Technologies that I know
-
 <br>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
