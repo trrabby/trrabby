@@ -1,4 +1,4 @@
-[![Watch the video](https://i.vimeocdn.com/video/510171458.jpg)](https://vimeo.com/974217717)
+[![Profile Video](https://github.com/janedoe/myprofile/blob/main/banner.png)](https://vimeo.com/974217717)
 
 ### Hi there 👋, I'm Fatema Chowdhury
 #### Frontend Web Developer
