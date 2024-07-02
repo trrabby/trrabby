@@ -9,20 +9,20 @@ Currently, I am working on diverse projects that utilize the power of React to b
 
 My goal is to continuously enhance my skills in front-end development and explore new technologies and frameworks. I aim to contribute to innovative projects that push the boundaries of web development, and I am eager to collaborate with other professionals to achieve outstanding results.
 
-Skills: HTML5 | CSS3 | TAILWIND CSS | DAISYUI | MAMBAUI | BOOTSTRAP | JAVASCRIPT | REACT JS | FIREBASE | NODE JS | EXPRESS JS | MONGODB | FIGMA
+Skills: HTML5 | CSS3 | TAILWIND CSS | DAISYUI | MAMBAUI | JAVASCRIPT | REACT JS | FIREBASE | NODE JS | EXPRESS JS | MONGODB | FIGMA
 
 ✔ 🌱 I’m currently learning Next JS <br>
 ✔ 👯 I’m looking to collaborate on Github <br>
 ✔ 💬 Ask me about Web Development <br>
-✔ 📫 How to reach me: trrabby@example.com <be>
+✔ 📫 How to reach me: trrabby@gmail.com <be>
 
 ## Let's Connect :handshake:
 
 <p align="center">
-  <a href="mailto:trrabby@example.com" target="_blank">
+  <a href="mailto:trrabby1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/trrabby/" target="_blank">
+  <a href="https://www.linkedin.com/in/towfiqueDev/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
