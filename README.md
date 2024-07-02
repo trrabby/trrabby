@@ -1,4 +1,4 @@
-[![Profile Video](https://github.com/janedoe/myprofile/blob/main/banner.png)](https://vimeo.com/974217717)
+<div> Banner </div>
 
 ### Hi there 👋, I'm Fatema Chowdhury
 #### Frontend Web Developer
