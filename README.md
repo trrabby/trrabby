@@ -14,7 +14,7 @@ Skills: HTML5 | CSS3 | TAILWIND CSS | DAISYUI | MAMBAUI | JAVASCRIPT | REACT JS 
 ✔ 🌱 I’m currently learning Next JS <br>
 ✔ 👯 I’m looking to collaborate on Github <br>
 ✔ 💬 Ask me about Web Development <br>
-✔ 📫 How to reach me: trrabby@gmail.com <be>
+✔ 📫 How to reach me: trrabby1@gmail.com <be>
 
 ## Let's Connect :handshake:
 
