@@ -22,7 +22,7 @@ Skills: HTML5 | CSS3 | TAILWIND CSS | DAISYUI | MAMBAUI | JAVASCRIPT | REACT JS 
   <a href="mailto:trrabby1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/towfiqueDev/" target="_blank">
+  <a href="https://www.linkedin.com/in/towfiqueweb/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
