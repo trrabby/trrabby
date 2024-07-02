@@ -65,4 +65,8 @@ Skills: HTML5 | CSS3 | TAILWIND CSS | DAISYUI | MAMBAUI | JAVASCRIPT | REACT JS 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=trrabby&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
-| <a href="https://github.com/trrabby/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trrabby&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MD TOWFIQUR RAHMAN's github stats" /></a> | <a href="https://github.com/trrabby/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trrabby&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/trrabby/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trrabby&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="MD TOWFIQUR RAHMAN's github stats" /></a> | <a href="https://github.com/trrabby/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trrabby&layout=compact&theme=buefy&hide_border=true" /></a> | ## :eyes: Current overview
+
+<div align="left">
+<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
+</div>
