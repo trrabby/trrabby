@@ -3,7 +3,7 @@
 
 ![Profile Video](https://github.com/trrabby/myprofile/raw/main/video.gif)
 
-Hello there! I'm MD TOWFIQUR RAHMAN, a seasoned Frontend React Developer passionate about creating polished, user-centric web applications. With a strong focus on React, I excel in simplifying complex problems into intuitive interfaces that enhance user satisfaction and efficiency.
+A seasoned Frontend React Developer passionate about creating polished, user-centric web applications. With a strong focus on React, I excel in simplifying complex problems into intuitive interfaces that enhance user satisfaction and efficiency.
 
 Currently, I'm deeply engaged in various projects where I leverage React's capabilities to deliver robust, responsive solutions. My approach emphasizes writing clean, scalable code and adhering to best practices to ensure optimal performance and maintainability.
 
