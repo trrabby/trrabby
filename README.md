@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/trrabby/">
-<img src="https://i.ibb.co/px0WL3G/Whats-App-Image-2024-07-02-at-22-44-32.jpg" />
+<img style={width:"100px"} src="https://i.ibb.co/px0WL3G/Whats-App-Image-2024-07-02-at-22-44-32.jpg" />
 </a>
 
 ### Hi there 👋, I'm MD TOWFIQUR RAHMAN
