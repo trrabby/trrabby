@@ -1,13 +1,9 @@
-<a href="https://www.facebook.com/trrabby/">
+<a href="https://www.facebook.com/profile.trrabby">
   <img src="https://i.ibb.co/px0WL3G/Whats-App-Image-2024-07-02-at-22-44-32.jpg" alt="Profile Image" />
 </a>
 
-![Banner GIF](https://your-gif-url-here.gif) <!-- Replace with your GIF URL -->
-
 # Hi there 👋, I'm **MD TOWFIQUR RAHMAN**
-### Frontend Web Developer
-
-[![Profile Video](https://img.youtube.com/vi/cti1g412xfznphoq3dri/0.jpg)](https://res.cloudinary.com/divyajujl/video/upload/v1735137493/cti1g412xfznphoq3dri.mp4)
+### Junior Web Developer
 
 ---
 
@@ -76,4 +72,5 @@ My ongoing pursuit of front-end development excellence drives me to stay updated
 ## :chart_with_upwards_trend: Current Stats
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=trrabby&theme=react
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=trrabby&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="Streak Stats" />
+</p>
