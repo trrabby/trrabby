@@ -2,12 +2,12 @@
   <img src="https://i.ibb.co/px0WL3G/Whats-App-Image-2024-07-02-at-22-44-32.jpg" alt="Profile Image" />
 </a>
 
-# Hi there 👋, I'm **MD TOWFIQUR RAHMAN**
+# Hi there 👋, I'm **TOWFIQUR RAHMAN**
 ### Junior Web Developer
 
 ---
 
-A seasoned **Frontend React Developer** passionate about creating polished, user-centric web applications. With a strong focus on React, I excel in simplifying complex problems into intuitive interfaces that enhance user satisfaction and efficiency.
+A seasoned **Jr. Web Developer** passionate about creating polished, user-centric web applications. With a strong focus on NextJs, React, I excel in simplifying complex problems into intuitive interfaces that enhance user satisfaction and efficiency.
 
 Currently, I'm deeply engaged in various projects where I leverage React's capabilities to deliver robust, responsive solutions. My approach emphasizes writing clean, scalable code and adhering to best practices to ensure optimal performance and maintainability.
 
@@ -16,7 +16,10 @@ My ongoing pursuit of front-end development excellence drives me to stay updated
 ---
 
 ### Skills
-**HTML5 | CSS3 | Tailwind CSS | DaisyUI | MambaUI | JavaScript | React JS | Firebase | Node JS | Express JS | MongoDB | Figma**
+**HTML5 | CSS3 | Tailwind CSS | JavaScript | React JS | Next JS | Typescript | Redux | 
+Node JS | Express JS | MongoDB | Mongoose | PostgreSQL | Prisma
+DaisyUI | MambaUI | AntDesign | MaterialUI | shadcn/ui | Any other frameworks
+Firebase | Next Auth | Git | Git Hub | Figma**
 
 ---
 
