@@ -1,272 +1,241 @@
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There!+👋;I'm+MD+TOWFIQUR+RAHMAN;Full+Stack+Developer+🚀;MERN+%26+Next.js+Enthusiast;Always+Learning,+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=760&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;I'm+MD+TOWFIQUR+RAHMAN;Full-Stack+Web+Developer;Founder+%26+CEO+at+WebCraft;Building+Scalable+Digital+Products" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Full Stack Developer | MERN & Next.js Enthusiast</h3>
+<h3 align="center">Full-Stack Developer · Founder & CEO, WebCraft · MERN & Next.js</h3>
 
 <p align="center">
-  <a href="https://towfiqverse.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-towfiqverse.vercel.app-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:trrabby1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-trrabby1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/towfiqueweb/">
-    <img src="https://img.shields.io/badge/LinkedIn-towfiqueweb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/trrabby">
-    <img src="https://img.shields.io/badge/GitHub-trrabby-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://towfiqverse.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-towfiqverse.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:trrabby1@gmail.com"><img src="https://img.shields.io/badge/Email-trrabby1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/towfiqueweb/"><img src="https://img.shields.io/badge/LinkedIn-towfiqueweb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/trrabby"><img src="https://img.shields.io/badge/GitHub-trrabby-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=trrabby&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/trrabby?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/trrabby?label=Stars&style=for-the-badge&color=0e75b6" alt="GitHub stars" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlignY=35&animation=twinkling" alt="Header wave" />
+  <img src="https://komarev.com/ghpvc/?username=trrabby&label=Profile%20Views&color=ec4899&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/trrabby?label=Followers&style=for-the-badge&color=ec4899" alt="GitHub followers" />
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## About Me
 
-> **Enthusiastic Full Stack Developer** with a growth-oriented mindset and a proven ability to learn quickly. Over the past 2 years, I've consistently expanded my technical skills through hands-on projects — gaining experience in database management, server & client-side development, responsive UI creation, and feature implementation based on business and client objectives.
+I'm **Md Towfiqur Rahman**, a Bangladesh-based full-stack web developer and the **Founder & CEO of WebCraft**. I build practical, business-focused web applications — from responsive storefronts and multi-vendor e-commerce platforms to backend APIs, payment workflows and operational dashboards.
 
-<table align="center">
-  <tr>
-    <td>
-      <ul>
-        <li>🌱 <b>Currently learning:</b> Advanced Next.js, TypeScript & System Design</li>
-        <li>👯 <b>Looking to collaborate on:</b> Open-source projects & innovative web apps</li>
-        <li>💬 <b>Ask me about:</b> React, Next.js, Node.js, MongoDB, PostgreSQL, Prisma</li>
-        <li>📫 <b>Reach me:</b> <a href="mailto:trrabby1@gmail.com">trrabby1@gmail.com</a></li>
-        <li>🌐 <b>Portfolio:</b> <a href="https://towfiqverse.vercel.app/">towfiqverse.vercel.app</a></li>
-        <li>📍 <b>Based in:</b> Bangladesh 🇧🇩</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+My work focuses on turning business requirements into reliable software. I enjoy working across the full product lifecycle: understanding a problem, designing the data model, developing frontend and backend features, integrating third-party services, deploying applications and maintaining them.
 
----
+- **Current focus:** Next.js, TypeScript, scalable application architecture and system design
+- **Building:** Elite Store — a multi-vendor e-commerce platform
+- **Agency:** WebCraft — web application, e-commerce, API and ongoing maintenance services
+- **Core interests:** E-commerce engineering, payment integrations, API design, deployment and automation
+- **Location:** Bangladesh
+- **Email:** [trrabby1@gmail.com](mailto:trrabby1@gmail.com)
 
-## 🛠️ Tech Stack
+## What I Do
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🎨 Frontend</h3>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    </td>
-    <td align="center" width="50%">
-      <h3>⚙️ Backend</h3>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🔐 Auth & Security</h3>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
-      <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth.js" />
-    </td>
-    <td align="center" width="50%">
-      <h3>🧰 Tools & Platforms</h3>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-      <img src="https://img.shields.io/badge/Surge-000000?style=for-the-badge&logo=surge&logoColor=white" alt="Surge" />
-    </td>
-  </tr>
-</table>
+### WebCraft
 
-<details>
-<summary><b>🤖 GitHub Tools & Automation (click to expand)</b></summary>
-<br/>
+I lead **[WebCraft](https://webcraft.com.bd/)**, a web development agency focused on building useful digital products for businesses. Our motto is:
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitHub Packages](https://img.shields.io/badge/GitHub_Packages-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white)
-![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Codespaces](https://img.shields.io/badge/GitHub_Codespaces-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Discussions](https://img.shields.io/badge/GitHub_Discussions-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white)
+> Crafts with Passion and Need.
 
-</details>
+Our service areas include:
+
+- E-commerce platform development
+- Custom web application development
+- REST API development and integrations
+- Payment, courier and business workflow integrations
+- Website maintenance, updates and technical support
+
+### Development Approach
+
+- Build around real business workflows rather than adding features without a purpose.
+- Prefer maintainable, type-safe implementations and clear separation of concerns.
+- Use server-side rendering and data-fetching strategies where they improve performance and user experience.
+- Integrate external services carefully, with attention to security, reliability and operational cost.
+- Avoid unnecessary rewrites when a focused improvement is safer and more effective.
 
 ---
 
-## 💼 Featured Projects
+## Technical Skills
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌙 Ramadan Schedule & Community Feedback Platform</h3>
-      <p>
-        <a href="https://ramadantimer-bd.netlify.app">
-          <img src="https://img.shields.io/badge/🔴_Live_Demo-00C7B7?style=for-the-badge" alt="Live" />
-        </a>
-        <a href="https://github.com/trrabby/moonlit-prayer-times.git">
-          <img src="https://img.shields.io/badge/💻_Client_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Client" />
-        </a>
-        <a href="https://github.com/trrabby/ramadanTimerBackend.git">
-          <img src="https://img.shields.io/badge/🖥️_Server_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Server" />
-        </a>
-      </p>
-      <ul>
-        <li>⏰ Displays Sehri End, Fajr & Iftar times for every day of Ramadan with current-day auto-highlight</li>
-        <li>📌 Scroll-to-today, sticky table headers, fully responsive dark/light mode</li>
-        <li>⭐ Users can rate & review with name, email, comments — edit or delete their own reviews</li>
-        <li>📬 Contact system with EmailJS, WhatsApp & email quick-action buttons</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square" />
-        <img src="https://img.shields.io/badge/EmailJS-F7DF1E?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>👨‍💻 Personal Portfolio Website</h3>
-      <p>
-        <a href="https://towfiqverse.vercel.app/">
-          <img src="https://img.shields.io/badge/🔴_Live_Demo-00C7B7?style=for-the-badge" alt="Live" />
-        </a>
-        <img src="https://img.shields.io/badge/🔒_Source-Private-6e6e6e?style=for-the-badge" alt="Private" />
-      </p>
-      <ul>
-        <li>🎯 Showcases projects, technical skills & experience in a structured, user-friendly interface</li>
-        <li>🚀 Dedicated project sections with descriptions, live demos & source access</li>
-        <li>✍️ Built-in blog where anyone can write & publish posts</li>
-        <li>📱 Fully responsive design with integrated contact form</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+### Backend & Data
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+</p>
+
+### Authentication, Integrations & Real-Time
+
+<p>
+  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth.js" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+</p>
+
+### Payments & Business Integrations
+
+- Bangladesh payment gateways: **SSLCommerz, bKash and Nagad**
+- Courier and delivery workflow integrations
+- Meta Pixel and server-side Conversion API concepts
+- REST APIs, webhooks, scheduled jobs and email notifications
+
+### Tools & Deployment
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+</p>
 
 ---
 
-## 🎓 Education & Certifications
+## Featured Projects
 
-<table align="center">
-  <tr>
-    <th>Institution</th>
-    <th>Qualification</th>
-    <th>Year</th>
-  </tr>
-  <tr>
-    <td>🏛️ Bangladesh Open University</td>
-    <td>BBA in Human Resource Management (HRM)</td>
-    <td><code>2022–2026</code></td>
-  </tr>
-  <tr>
-    <td>🏛️ Bangladesh Technical Education Board</td>
-    <td>Diploma in Secretarial Science</td>
-    <td><code>2019–2021</code></td>
-  </tr>
-</table>
+### 1. Elite Store — Multi-Vendor E-commerce Platform
 
-**📚 Courses & Training**
+**[Live platform](https://elitestall.shop/)** · **[Backend repository](https://github.com/trrabby/eliteStoreServer)**
 
-| 🏷️ Course | 🏫 Provider | 📅 Period |
+Elite Store is my flagship e-commerce platform project, designed to give businesses a scalable foundation for operating online stores and multi-vendor marketplaces.
+
+**Key capabilities**
+
+- Multi-vendor marketplace workflows with customer, vendor and admin roles
+- Product, variant, inventory, cart, checkout and order management
+- Payment integrations including SSLCommerz, bKash, Nagad and cash on delivery
+- Courier workflow integration and order-related operations
+- Vendor wallets, withdrawals and payout workflows
+- Returns, refunds, coupons, flash sales and promotional banners
+- REST APIs, webhooks and real-time event notifications
+- Analytics, reporting, low-stock alerts and administrative controls
+- Support for connecting online, POS and social-commerce order workflows to shared inventory data
+
+**Technology:** Next.js, React, TypeScript, Node.js, Express, PostgreSQL, Prisma, NextAuth, Redux Toolkit and Socket.IO.
+
+### 2. Baby Adora — E-commerce Store
+
+**[Website](https://babyadora.com/)**
+
+A business-focused e-commerce implementation for a baby and children's products store.
+
+**Key capabilities**
+
+- Responsive storefront and product discovery
+- Product categories, filtering and size variations
+- Inventory, cart, checkout, authentication and order management
+- Payment and courier workflow integrations
+- Invoice generation, email notifications and promotional features
+- Administrative tools for managing products and orders
+
+A key operational goal is to keep POS, social-media and website orders synchronized with a shared inventory database to reduce stock inconsistencies.
+
+### 3. Personal Portfolio & Blog
+
+**[Live portfolio](https://towfiqverse.vercel.app/)**
+
+My personal portfolio for presenting projects, technical skills and development experience.
+
+**Key capabilities**
+
+- Responsive portfolio and project showcase
+- Project descriptions, live demos and source links where available
+- Built-in blog publishing functionality
+- Contact form and structured content sections
+
+**Technology:** Next.js, Node.js, Express, MongoDB, Tailwind CSS and Redux.
+
+### 4. Ramadan Schedule & Community Feedback Platform
+
+**[Live demo](https://ramadantimer-bd.netlify.app/)** · [Client repository](https://github.com/trrabby/moonlit-prayer-times) · [Backend repository](https://github.com/trrabby/ramadanTimerBackend)
+
+A Ramadan-focused web application for displaying daily prayer-related schedules and collecting community feedback.
+
+**Key capabilities**
+
+- Sehri end, Fajr and Iftar schedule display
+- Current-day highlighting and scroll-to-today navigation
+- Responsive interface with dark and light modes
+- User ratings and reviews with editing and deletion controls
+- Contact options through email and WhatsApp
+
+**Technology:** React, Node.js, Express, MongoDB and Tailwind CSS.
+
+---
+
+## Experience & Learning
+
+- **Founder & CEO — WebCraft:** Leading a web development initiative focused on e-commerce, custom web applications, APIs and ongoing technical support.
+- **Bangladesh Air Force:** Professional experience in Secretarial Assistant (General Duties) and Record Office duties.
+- **Programming Hero — Next Level Web Development:** October 2024 – May 2025.
+- **Programming Hero — Complete Web Development:** December 2023 – August 2024.
+
+I continue to develop my skills through hands-on product development, technical problem-solving and continuous learning.
+
+## Education
+
+| Institution | Qualification | Period |
 |---|---|---|
-| Next Level Web Development | Programming Hero | Oct 2024 – Apr 2025 |
-| Complete Web Development | Programming Hero | Dec 2023 – Jun 2024 |
-| Professional Freelancing | NIET | 2018 |
-| IT Support Technical | BITM | 2017 |
+| Bangladesh Open University | BBA in Human Resource Management (HRM) | 2022–2026 |
+| Bangladesh Technical Education Board | Diploma in Secretarial Science | 2019–2021 |
+
+## Languages
+
+- Bengali — Native
+- English — Professional working proficiency
+- Hindi/Urdu — Conversational
 
 ---
 
-## 🌐 Languages
+## GitHub Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bengali-Native-0e75b6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/English-Professional-0e75b6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hindi%2FUrdu-Communicative-0e75b6?style=for-the-badge" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=trrabby&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF1CF7&text_color=ffffff" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=trrabby&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="Streak Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=trrabby&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=trrabby&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trrabby&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=trrabby&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=FF1CF7&point=ffffff" alt="Activity Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trrabby&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=trrabby&hide_border=true&theme=github-compact" alt="GitHub activity graph" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## Let's Connect
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trrabby&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:trrabby1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/towfiqueweb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/trrabby" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://towfiqverse.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+  <a href="mailto:trrabby1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/towfiqueweb/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/trrabby"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://towfiqverse.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/trrabby">
-    <img src="https://raw.githubusercontent.com/trrabby/trrabby/output/snake.svg" alt="Snake animation" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" alt="Footer wave" />
+  <i>Building useful products. Solving real problems. Learning continuously.</i>
 </p>
 
 <p align="center">
-  <i>"Continuous learning and building — that's my journey." 💡</i>
-</p>
-
-<p align="center">
-  ⭐️ <b>From <a href="https://github.com/trrabby">trrabby</a> with ❤️</b>
+  ⭐ From <a href="https://github.com/trrabby">trrabby</a>
 </p>
