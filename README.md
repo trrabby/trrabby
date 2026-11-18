@@ -1,15 +1,16 @@
 <div align="center">
 
-<!-- ═══════════════════════ HERO SECTION ═══════════════════════ -->
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MD%20TOWFIQUR%20RAHMAN&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%E2%80%A2%20Founder%20%26%20CEO%20at%20WebCraft&descAlignY=52&descSize=18" alt="Header banner" />
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=26&center=true&vCenter=true&width=700&height=50&duration=3500&pause=800&color=36BCF7&lines=Building+Scalable+Digital+Products+%F0%9F%9A%80;Turning+Business+Ideas+into+Software+%F0%9F%92%BC;Next.js+%7C+TypeScript+%7C+Node.js+%7C+PostgreSQL" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MD%20TOWFIQUR%20RAHMAN&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Founder%20%26%20CEO%20at%20WebCraft&descAlignY=55&descSize=18" alt="Header banner" width="100%" />
 
 <br/>
 
-<!-- ═══════════════════════ QUICK CONTACT BAR ═══════════════════════ -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=26&center=true&vCenter=true&width=750&height=50&duration=3500&pause=800&color=36BCF7&lines=Building+Scalable+Digital+Products+%F0%9F%9A%80;Turning+Business+Ideas+into+Software+%F0%9F%92%BC;Next.js+%7C+TypeScript+%7C+Node.js+%7C+PostgreSQL" alt="Typing SVG" />
 
+<br/><br/>
+
+<!-- Quick contact -->
 <a href="https://towfiqverse.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-towfiqverse.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://webcraft.com.bd/"><img src="https://img.shields.io/badge/Agency-WebCraft-ec4899?style=for-the-badge&logo=google-chrome&logoColor=white" alt="WebCraft" /></a>
 <a href="mailto:trrabby1@gmail.com"><img src="https://img.shields.io/badge/Email-trrabby1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -18,41 +19,46 @@
 
 <br/><br/>
 
-<!-- ═══════════════════════ PROFILE STATS ═══════════════════════ -->
-
+<!-- Stats -->
 <img src="https://komarev.com/ghpvc/?username=trrabby&label=Profile%20Views&color=ec4899&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/trrabby?label=Followers&style=for-the-badge&color=ec4899" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/trrabby?label=Stars&style=for-the-badge&color=ec4899" alt="GitHub stars" />
 <img src="https://img.shields.io/badge/Experience-2%2B%20Years-36BCF7?style=for-the-badge" alt="Experience" />
 
+<br/><br/>
+
 </div>
 
 ---
 
-<div align="center">
+<h2 align="center">👋 About Me</h2>
 
-## 👋 About Me
+<p align="justify">
 
-</div>
-
-> **I'm Md Towfiqur Rahman** — a Bangladesh-based full-stack web developer and the **Founder & CEO of WebCraft**. I build practical, business-focused web applications: from responsive storefronts and multi-vendor e-commerce platforms to backend APIs, payment workflows and operational dashboards.
+**I'm Md Towfiqur Rahman** — a Bangladesh-based full-stack web developer and the **Founder & CEO of WebCraft**. I build practical, business-focused web applications: from responsive storefronts and multi-vendor e-commerce platforms to backend APIs, payment workflows and operational dashboards.
 
 My work focuses on **turning business requirements into reliable software**. I enjoy working across the full product lifecycle — understanding a problem, designing the data model, developing frontend and backend features, integrating third-party services, deploying applications and maintaining them.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+</p>
 
-### 🎯 Current Focus
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top" align="left">
+
+<h3>🎯 Current Focus</h3>
+
 - **Building:** [Elite Store](https://elitestall.shop/) — multi-vendor e-commerce
 - **Leading:** [WebCraft](https://webcraft.com.bd/) — web dev agency
 - **Learning:** Next.js, TypeScript, system design
 - **Interests:** E-commerce engineering, payments, API design, automation
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-### 📍 Quick Info
+<h3>📍 Quick Info</h3>
+
 - **Location:** Bangladesh 🇧🇩
 - **Email:** [trrabby1@gmail.com](mailto:trrabby1@gmail.com)
 - **Portfolio:** [towfiqverse.vercel.app](https://towfiqverse.vercel.app/)
@@ -65,21 +71,22 @@ My work focuses on **turning business requirements into reliable software**. I e
 
 ---
 
-<div align="center">
+<h2 align="center">🏢 What I Do</h2>
 
-## 🏢 What I Do
+<p align="center">
+  <img src="https://img.shields.io/badge/WebCraft-Crafts%20with%20Passion%20and%20Need-ec4899?style=for-the-badge" alt="WebCraft motto" />
+</p>
 
-### <img src="https://img.shields.io/badge/WebCraft-Crafts%20with%20Passion%20and%20Need-ec4899?style=flat-square" alt="WebCraft motto" />
+<p align="center"><i>I lead <a href="https://webcraft.com.bd/"><b>WebCraft</b></a> — a web development agency focused on building useful digital products for businesses.</i></p>
 
-</div>
+<br/>
 
-I lead **[WebCraft](https://webcraft.com.bd/)** — a web development agency focused on building useful digital products for businesses.
-
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-### 🛠️ Service Areas
+<h3>🛠️ Service Areas</h3>
+
 - 🛒 E-commerce platform development
 - 💻 Custom web application development
 - 🔌 REST API development & integrations
@@ -87,9 +94,10 @@ I lead **[WebCraft](https://webcraft.com.bd/)** — a web development agency foc
 - 🔧 Website maintenance & technical support
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-### 🧭 Development Approach
+<h3>🧭 Development Approach</h3>
+
 - ✅ Build around **real business workflows**
 - ✅ Prefer **type-safe**, maintainable implementations
 - ✅ Use SSR / smart data fetching where it helps
@@ -102,15 +110,11 @@ I lead **[WebCraft](https://webcraft.com.bd/)** — a web development agency foc
 
 ---
 
-<div align="center">
+<h2 align="center">🧰 Technical Skills</h2>
 
-## 🧰 Technical Skills
+<h3 align="center">🎨 Frontend</h3>
 
-</div>
-
-### 🎨 Frontend
-
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -119,9 +123,9 @@ I lead **[WebCraft](https://webcraft.com.bd/)** — a web development agency foc
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### ⚙️ Backend & Data
+<h3 align="center">⚙️ Backend & Data</h3>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -130,9 +134,9 @@ I lead **[WebCraft](https://webcraft.com.bd/)** — a web development agency foc
 <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
 </p>
 
-### 🔐 Auth, Integrations & Real-Time
+<h3 align="center">🔐 Auth, Integrations & Real-Time</h3>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth.js" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO" />
@@ -140,9 +144,9 @@ I lead **[WebCraft](https://webcraft.com.bd/)** — a web development agency foc
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
 </p>
 
-### 💳 Payments & Business Integrations
+<h3 align="center">💳 Payments & Business Integrations</h3>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/SSLCommerz-0066B3?style=for-the-badge" alt="SSLCommerz" />
 <img src="https://img.shields.io/badge/bKash-E2136F?style=for-the-badge" alt="bKash" />
 <img src="https://img.shields.io/badge/Nagad-EC1C24?style=for-the-badge" alt="Nagad" />
@@ -150,9 +154,9 @@ I lead **[WebCraft](https://webcraft.com.bd/)** — a web development agency foc
 <img src="https://img.shields.io/badge/Meta_Pixel_%26_CAPI-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Pixel" />
 </p>
 
-### 🚀 Tools & Deployment
+<h3 align="center">🚀 Tools & Deployment</h3>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
@@ -164,26 +168,25 @@ I lead **[WebCraft](https://webcraft.com.bd/)** — a web development agency foc
 
 ---
 
-<div align="center">
+<h2 align="center">💼 Featured Projects</h2>
 
-## 💼 Featured Projects
+<br/>
 
-</div>
+<h3 align="center">🌟 1. Elite Store — Multi-Vendor E-commerce Platform</h3>
 
-### 🌟 1. Elite Store — Multi-Vendor E-commerce Platform
+<p align="center"><i>My flagship e-commerce platform project — a scalable foundation for online stores and multi-vendor marketplaces.</i></p>
 
-> *My flagship e-commerce platform project — a scalable foundation for online stores and multi-vendor marketplaces.*
-
-<p>
+<p align="center">
 <a href="https://elitestall.shop/"><img src="https://img.shields.io/badge/🌐_Live_Platform-00C7B7?style=for-the-badge" alt="Live" /></a>
 <a href="https://github.com/trrabby/eliteStoreServer"><img src="https://img.shields.io/badge/🖥️_Backend_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend" /></a>
 </p>
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-**⚡ Core Features**
+<h4>⚡ Core Features</h4>
+
 - 🏪 Multi-vendor workflows (customer / vendor / admin)
 - 📦 Products, variants, inventory, cart, checkout, orders
 - 💳 Payments: SSLCommerz, bKash, Nagad + COD
@@ -191,9 +194,10 @@ I lead **[WebCraft](https://webcraft.com.bd/)** — a web development agency foc
 - 💰 Vendor wallets, withdrawals & payouts
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-**🧩 Advanced**
+<h4>🧩 Advanced</h4>
+
 - 🔁 Returns, refunds, coupons, flash sales, banners
 - 🔌 REST APIs, webhooks, real-time notifications
 - 📊 Analytics, reporting & low-stock alerts
@@ -204,7 +208,7 @@ I lead **[WebCraft](https://webcraft.com.bd/)** — a web development agency foc
 </tr>
 </table>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -219,11 +223,11 @@ I lead **[WebCraft](https://webcraft.com.bd/)** — a web development agency foc
 
 ---
 
-### 🍼 2. Baby Adora — E-commerce Store
+<h3 align="center">🍼 2. Baby Adora — E-commerce Store</h3>
 
-> *A business-focused e-commerce implementation for a baby and children's products store.*
+<p align="center"><i>A business-focused e-commerce implementation for a baby and children's products store.</i></p>
 
-<p>
+<p align="center">
 <a href="https://babyadora.com/"><img src="https://img.shields.io/badge/🌐_Visit_Site-00C7B7?style=for-the-badge" alt="Live" /></a>
 </p>
 
@@ -237,11 +241,11 @@ I lead **[WebCraft](https://webcraft.com.bd/)** — a web development agency foc
 
 ---
 
-### 🎨 3. Personal Portfolio & Blog
+<h3 align="center">🎨 3. Personal Portfolio & Blog</h3>
 
-> *My personal portfolio presenting projects, technical skills and development experience.*
+<p align="center"><i>My personal portfolio presenting projects, technical skills and development experience.</i></p>
 
-<p>
+<p align="center">
 <a href="https://towfiqverse.vercel.app/"><img src="https://img.shields.io/badge/🌐_Visit_Portfolio-00C7B7?style=for-the-badge" alt="Live" /></a>
 </p>
 
@@ -250,7 +254,7 @@ I lead **[WebCraft](https://webcraft.com.bd/)** — a web development agency foc
 - ✍️ Built-in blog publishing functionality
 - 📬 Contact form & structured content sections
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" />
@@ -261,11 +265,11 @@ I lead **[WebCraft](https://webcraft.com.bd/)** — a web development agency foc
 
 ---
 
-### 🌙 4. Ramadan Schedule & Community Feedback Platform
+<h3 align="center">🌙 4. Ramadan Schedule & Community Feedback Platform</h3>
 
-> *A Ramadan-focused app for displaying daily prayer schedules and collecting community feedback.*
+<p align="center"><i>A Ramadan-focused app for displaying daily prayer schedules and collecting community feedback.</i></p>
 
-<p>
+<p align="center">
 <a href="https://ramadantimer-bd.netlify.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge" alt="Live" /></a>
 <a href="https://github.com/trrabby/moonlit-prayer-times"><img src="https://img.shields.io/badge/💻_Client_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Client" /></a>
 <a href="https://github.com/trrabby/ramadanTimerBackend"><img src="https://img.shields.io/badge/🖥️_Backend_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend" /></a>
@@ -277,7 +281,7 @@ I lead **[WebCraft](https://webcraft.com.bd/)** — a web development agency foc
 - ⭐ User ratings and reviews with edit / delete controls
 - 📬 Contact via email & WhatsApp
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" />
@@ -287,26 +291,26 @@ I lead **[WebCraft](https://webcraft.com.bd/)** — a web development agency foc
 
 ---
 
-<div align="center">
+<h2 align="center">📈 Experience & Learning</h2>
 
-## 📈 Experience & Learning
+<br/>
 
-</div>
-
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-### 💼 Professional
+<h3>💼 Professional</h3>
+
 - 🏢 **Founder & CEO — WebCraft**  
   Leading a web development initiative for e-commerce, custom apps, APIs & ongoing support
 - ✈️ **Bangladesh Air Force**  
   Secretarial Assistant (General Duties) & Record Office duties
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-### 📚 Courses
+<h3>📚 Courses</h3>
+
 - 🎓 **Next Level Web Development** — Programming Hero *(Oct 2024 – May 2025)*
 - 🎓 **Complete Web Development** — Programming Hero *(Dec 2023 – Aug 2024)*
 
@@ -316,26 +320,26 @@ I lead **[WebCraft](https://webcraft.com.bd/)** — a web development agency foc
 
 ---
 
-<div align="center">
+<h2 align="center">🎓 Education & 🌐 Languages</h2>
 
-## 🎓 Education & 🌐 Languages
+<br/>
 
-</div>
-
-<table>
+<table align="center">
 <tr>
-<td width="55%" valign="top">
+<td width="55%" valign="top" align="left">
 
-### 🎓 Education
+<h3>🎓 Education</h3>
+
 | Institution | Qualification | Period |
-|---|---|---|
+|:---|:---|:---:|
 | Bangladesh Open University | BBA in HRM | `2022–2026` |
 | Bangladesh Technical Education Board | Diploma in Secretarial Science | `2019–2021` |
 
 </td>
-<td width="45%" valign="top">
+<td width="45%" valign="top" align="left">
 
-### 🌐 Languages
+<h3>🌐 Languages</h3>
+
 - 🇧🇩 **Bengali** — Native
 - 🇬🇧 **English** — Professional
 - 🇮🇳 **Hindi / Urdu** — Conversational
@@ -346,11 +350,9 @@ I lead **[WebCraft](https://webcraft.com.bd/)** — a web development agency foc
 
 ---
 
-<div align="center">
+<h2 align="center">📊 GitHub Activity</h2>
 
-## 📊 GitHub Activity
-
-</div>
+<br/>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=trrabby&show_icons=true&hide_border=true&theme=transparent&title_color=ec4899&icon_color=36BCF7&text_color=9ca3af&border_radius=12" alt="GitHub statistics" />
@@ -368,23 +370,27 @@ I lead **[WebCraft](https://webcraft.com.bd/)** — a web development agency foc
 
 ---
 
-<div align="center">
+<h2 align="center">🤝 Let's Connect</h2>
 
-## 🤝 Let's Connect
+<br/>
 
+<p align="center">
 <a href="mailto:trrabby1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/towfiqueweb/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/trrabby"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://towfiqverse.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://webcraft.com.bd/"><img src="https://img.shields.io/badge/WebCraft-Explore-ec4899?style=for-the-badge&logo=google-chrome&logoColor=white" alt="WebCraft" /></a>
+</p>
 
-<br/><br/>
+<br/>
 
-<i>Building useful products. Solving real problems. Learning continuously.</i>
+<p align="center"><i>Building useful products. Solving real problems. Learning continuously.</i></p>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Footer wave" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Footer wave" width="100%" />
 
 ⭐ From <a href="https://github.com/trrabby">trrabby</a> with ❤️
 
