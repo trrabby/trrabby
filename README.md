@@ -13,11 +13,11 @@
 <br/><br/>
 
 <!-- Quick contact -->
-<a href="https://towfiqverse.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-towfiqverse.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://webcraft.com.bd/"><img src="https://img.shields.io/badge/Agency-WebCraft-ec4899?style=for-the-badge&logo=google-chrome&logoColor=white" alt="WebCraft" /></a>
-<a href="mailto:trrabby1@gmail.com"><img src="https://img.shields.io/badge/Email-trrabby1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/towfiqueweb/"><img src="https://img.shields.io/badge/LinkedIn-towfiqueweb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/trrabby"><img src="https://img.shields.io/badge/GitHub-trrabby-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://towfiqverse.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-towfiqverse.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://webcraft.com.bd/" target="_blank"><img src="https://img.shields.io/badge/Agency-WebCraft-ec4899?style=for-the-badge&logo=google-chrome&logoColor=white" alt="WebCraft" /></a>
+<a href="mailto:trrabby1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-trrabby1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/towfiqueweb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-towfiqueweb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/trrabby" target="_blank"><img src="https://img.shields.io/badge/GitHub-trrabby-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
@@ -79,7 +79,7 @@ My work focuses on **turning business requirements into reliable software**. I e
   <img src="https://img.shields.io/badge/WebCraft-Crafts%20with%20Passion%20and%20Need-ec4899?style=for-the-badge" alt="WebCraft motto" />
 </p>
 
-<p align="center"><i>I lead <a href="https://webcraft.com.bd/"><b>WebCraft</b></a> — a web development agency focused on building useful digital products for businesses.</i></p>
+<p align="center"><i>I lead <a href="https://webcraft.com.bd/" target="_blank"><b>WebCraft</b></a> — a web development agency focused on building useful digital products for businesses.</i></p>
 
 <br/>
 
@@ -179,8 +179,8 @@ My work focuses on **turning business requirements into reliable software**. I e
 <p align="center"><i>My flagship e-commerce platform project — a scalable foundation for online stores and multi-vendor marketplaces.</i></p>
 
 <p align="center">
-<a href="https://elitestall.shop/"><img src="https://img.shields.io/badge/🌐_Live_Platform-00C7B7?style=for-the-badge" alt="Live" /></a>
-<a href="https://github.com/trrabby/eliteStoreServer"><img src="https://img.shields.io/badge/🖥️_Backend_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend" /></a>
+<a href="https://elitestall.shop/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Platform-00C7B7?style=for-the-badge" alt="Live" /></a>
+<a href="https://github.com/trrabby/eliteStoreServer" target="_blank"><img src="https://img.shields.io/badge/🖥️_Backend_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend" /></a>
 </p>
 
 <table align="center">
@@ -230,7 +230,7 @@ My work focuses on **turning business requirements into reliable software**. I e
 <p align="center"><i>A business-focused e-commerce implementation for a baby and children's products store.</i></p>
 
 <p align="center">
-<a href="https://babyadora.com/"><img src="https://img.shields.io/badge/🌐_Visit_Site-00C7B7?style=for-the-badge" alt="Live" /></a>
+<a href="https://babyadora.com/" target="_blank"><img src="https://img.shields.io/badge/🌐_Visit_Site-00C7B7?style=for-the-badge" alt="Live" /></a>
 </p>
 
 - 🛍️ Responsive storefront & product discovery
@@ -248,7 +248,7 @@ My work focuses on **turning business requirements into reliable software**. I e
 <p align="center"><i>My personal portfolio presenting projects, technical skills and development experience.</i></p>
 
 <p align="center">
-<a href="https://towfiqverse.vercel.app/"><img src="https://img.shields.io/badge/🌐_Visit_Portfolio-00C7B7?style=for-the-badge" alt="Live" /></a>
+<a href="https://towfiqverse.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Visit_Portfolio-00C7B7?style=for-the-badge" alt="Live" /></a>
 </p>
 
 - 🖼️ Responsive portfolio & project showcase
@@ -272,9 +272,9 @@ My work focuses on **turning business requirements into reliable software**. I e
 <p align="center"><i>A Ramadan-focused app for displaying daily prayer schedules and collecting community feedback.</i></p>
 
 <p align="center">
-<a href="https://ramadantimer-bd.netlify.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge" alt="Live" /></a>
-<a href="https://github.com/trrabby/moonlit-prayer-times"><img src="https://img.shields.io/badge/💻_Client_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Client" /></a>
-<a href="https://github.com/trrabby/ramadanTimerBackend"><img src="https://img.shields.io/badge/🖥️_Backend_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend" /></a>
+<a href="https://ramadantimer-bd.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=for-the-badge" alt="Live" /></a>
+<a href="https://github.com/trrabby/moonlit-prayer-times" target="_blank"><img src="https://img.shields.io/badge/💻_Client_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Client" /></a>
+<a href="https://github.com/trrabby/ramadanTimerBackend" target="_blank"><img src="https://img.shields.io/badge/🖥️_Backend_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend" /></a>
 </p>
 
 - ⏰ Sehri end, Fajr & Iftar schedule display
@@ -372,11 +372,11 @@ My work focuses on **turning business requirements into reliable software**. I e
 <br/>
 
 <p align="center">
-<a href="mailto:trrabby1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/towfiqueweb/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/trrabby"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://towfiqverse.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://webcraft.com.bd/"><img src="https://img.shields.io/badge/WebCraft-Explore-ec4899?style=for-the-badge&logo=google-chrome&logoColor=white" alt="WebCraft" /></a>
+<a href="mailto:trrabby1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/towfiqueweb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/trrabby" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://towfiqverse.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://webcraft.com.bd/" target="_blank"><img src="https://img.shields.io/badge/WebCraft-Explore-ec4899?style=for-the-badge&logo=google-chrome&logoColor=white" alt="WebCraft" /></a>
 </p>
 
 <br/>
@@ -385,4 +385,4 @@ My work focuses on **turning business requirements into reliable software**. I e
 
 <br/>
 
-<p align="center">⭐ From <a href="https://github.com/trrabby">trrabby</a> with ❤️</p>
+<p align="center">⭐ From <a href="https://github.com/trrabby" target="_blank">trrabby</a> with ❤️</p>
