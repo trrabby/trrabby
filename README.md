@@ -2,7 +2,9 @@
 
 <!-- ═══════════════════════ HERO ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MD%20TOWFIQUR%20RAHMAN&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Founder%20%26%20CEO%20at%20WebCraft&descAlignY=55&descSize=18" alt="Header banner" width="100%" />
+<h1>MD TOWFIQUR RAHMAN</h1>
+
+<h3>Full-Stack Developer · Founder &amp; CEO at WebCraft</h3>
 
 <br/>
 
@@ -303,7 +305,8 @@ My work focuses on **turning business requirements into reliable software**. I e
 
 - 🏢 **Founder & CEO — WebCraft**  
   Leading a web development initiative for e-commerce, custom apps, APIs & ongoing support
-- ✈️ **Bangladesh Air Force**
+- ✈️ **Bangladesh Air Force**  
+  Secretarial Assistant (General Duties) & Record Office duties
 
 </td>
 <td width="50%" valign="top" align="left">
@@ -354,17 +357,13 @@ My work focuses on **turning business requirements into reliable software**. I e
 <br/>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=trrabby&show_icons=true&hide_border=true&theme=transparent&title_color=ec4899&icon_color=36BCF7&text_color=9ca3af&border_radius=12" alt="GitHub statistics" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=trrabby&show_icons=true&hide_border=true&theme=transparent&title_color=ec4899&icon_color=36BCF7&text_color=9ca3af&border_radius=12" alt="GitHub statistics" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=trrabby&hide_border=true&theme=transparent&ring=ec4899&fire=ec4899&currStreakLabel=36BCF7&sideLabels=9ca3af&currStreakNum=ffffff&sideNums=ffffff&border_radius=12" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trrabby&layout=compact&hide_border=true&theme=transparent&title_color=ec4899&text_color=9ca3af&border_radius=12" alt="Most used languages" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=trrabby&layout=compact&hide_border=true&theme=transparent&title_color=ec4899&text_color=9ca3af&border_radius=12" alt="Most used languages" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=trrabby&hide_border=true&theme=react-dark&bg_color=transparent&color=ec4899&line=36BCF7&point=ffffff&radius=12" alt="GitHub activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trrabby&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="GitHub trophies" />
 </p>
 
 ---
@@ -387,10 +386,4 @@ My work focuses on **turning business requirements into reliable software**. I e
 
 <br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Footer wave" width="100%" />
-
-⭐ From <a href="https://github.com/trrabby">trrabby</a> with ❤️
-
-</div>
+<p align="center">⭐ From <a href="https://github.com/trrabby">trrabby</a> with ❤️</p>
