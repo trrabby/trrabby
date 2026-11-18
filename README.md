@@ -305,8 +305,7 @@ My work focuses on **turning business requirements into reliable software**. I e
 
 - 🏢 **Founder & CEO — WebCraft**  
   Leading a web development initiative for e-commerce, custom apps, APIs & ongoing support
-- ✈️ **Bangladesh Air Force**  
-  Secretarial Assistant (General Duties) & Record Office duties
+- ✈️ **Bangladesh Air Force**
 
 </td>
 <td width="50%" valign="top" align="left">
